@@ -1,0 +1,1802 @@
+{
+  "1.0": {
+    "ID": 1,
+    "FullName": "Noah Moreau",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 2
+  },
+  "2.0": {
+    "ID": 2,
+    "FullName": "Paolo Caruso",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 3
+  },
+  "3.0": {
+    "ID": 3,
+    "FullName": "Brian Anderson",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 2,
+    "SERV": 2
+  },
+  "4.0": {
+    "ID": 4,
+    "FullName": "Riccardo González",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 2,
+    "SERV": 2
+  },
+  "5.0": {
+    "ID": 5,
+    "FullName": "Andrei Gallo",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 2,
+    "SERV": 2
+  },
+  "6.0": {
+    "ID": 6,
+    "FullName": "Jason García",
+    "Role": "S",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 2
+  },
+  "7.0": {
+    "ID": 7,
+    "FullName": "Filippo Petit",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 3
+  },
+  "8.0": {
+    "ID": 8,
+    "FullName": "Tommaso Moretti",
+    "Role": "S",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 2
+  },
+  "9.0": {
+    "ID": 9,
+    "FullName": "Ibrahim Martin",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 2
+  },
+  "10.0": {
+    "ID": 10,
+    "FullName": "Adam Miller",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 2
+  },
+  "11.0": {
+    "ID": 11,
+    "FullName": "Alex Grassi",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "12.0": {
+    "ID": 12,
+    "FullName": "Gabriele Torres",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 1
+  },
+  "13.0": {
+    "ID": 13,
+    "FullName": "Michele López",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 1
+  },
+  "14.0": {
+    "ID": 14,
+    "FullName": "Daniel Pellegrini",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 2
+  },
+  "15.0": {
+    "ID": 15,
+    "FullName": "Anthony Wilson",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 1,
+    "SERV": 2
+  },
+  "16.0": {
+    "ID": 16,
+    "FullName": "Alberto Greco",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 1
+  },
+  "17.0": {
+    "ID": 17,
+    "FullName": "Salvatore Johnson",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 1
+  },
+  "18.0": {
+    "ID": 18,
+    "FullName": "Nicola Conti",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "19.0": {
+    "ID": 19,
+    "FullName": "Sergio Ferrari",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 2
+  },
+  "20.0": {
+    "ID": 20,
+    "FullName": "Roman Testa",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 1
+  },
+  "21.0": {
+    "ID": 21,
+    "FullName": "Edoardo Moreau",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 1
+  },
+  "22.0": {
+    "ID": 22,
+    "FullName": "Stefano Caruso",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 0
+  },
+  "23.0": {
+    "ID": 23,
+    "FullName": "Simone Anderson",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 0
+  },
+  "24.0": {
+    "ID": 24,
+    "FullName": "Michael González",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 0
+  },
+  "25.0": {
+    "ID": 25,
+    "FullName": "Carlo Gallo",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 0
+  },
+  "26.0": {
+    "ID": 26,
+    "FullName": "Louis García",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "27.0": {
+    "ID": 27,
+    "FullName": "Maksim Petit",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "28.0": {
+    "ID": 28,
+    "FullName": "Arthur Moretti",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "29.0": {
+    "ID": 29,
+    "FullName": "Marco Martin",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "30.0": {
+    "ID": 30,
+    "FullName": "Kevin Miller",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "31.0": {
+    "ID": 31,
+    "FullName": "Carlos Grassi",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "32.0": {
+    "ID": 32,
+    "FullName": "Roberto Torres",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "33.0": {
+    "ID": 33,
+    "FullName": "Diego López",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "34.0": {
+    "ID": 34,
+    "FullName": "Eric Pellegrini",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "35.0": {
+    "ID": 35,
+    "FullName": "Matteo Wilson",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "36.0": {
+    "ID": 36,
+    "FullName": "Hugo Greco",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "37.0": {
+    "ID": 37,
+    "FullName": "Mehdi Johnson",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "38.0": {
+    "ID": 38,
+    "FullName": "Emanuele Conti",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "39.0": {
+    "ID": 39,
+    "FullName": "Luca Ferrari",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "40.0": {
+    "ID": 40,
+    "FullName": "Javier Testa",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "41.0": {
+    "ID": 41,
+    "FullName": "Giorgio Moreau",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "42.0": {
+    "ID": 42,
+    "FullName": "Dmytro Caruso",
+    "Role": "OPP",
+    "ATK": 1,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "43.0": {
+    "ID": 43,
+    "FullName": "Youssef Anderson",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "44.0": {
+    "ID": 44,
+    "FullName": "Miguel González",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "45.0": {
+    "ID": 45,
+    "FullName": "Federico Gallo",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 2
+  },
+  "46.0": {
+    "ID": 46,
+    "FullName": "Davide García",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 0
+  },
+  "47.0": {
+    "ID": 47,
+    "FullName": "Ali Petit",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "48.0": {
+    "ID": 48,
+    "FullName": "Jorge Moretti",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 0
+  },
+  "49.0": {
+    "ID": 49,
+    "FullName": "Pietro Martin",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "50.0": {
+    "ID": 50,
+    "FullName": "Jonathan Miller",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 1
+  },
+  "51.0": {
+    "ID": 51,
+    "FullName": "David Grassi",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "52.0": {
+    "ID": 52,
+    "FullName": "Samuel Torres",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "53.0": {
+    "ID": 53,
+    "FullName": "Giovanni López",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "54.0": {
+    "ID": 54,
+    "FullName": "Francesco Pellegrini",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "55.0": {
+    "ID": 55,
+    "FullName": "Omar Wilson",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "56.0": {
+    "ID": 56,
+    "FullName": "Leonardo Greco",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 1
+  },
+  "57.0": {
+    "ID": 57,
+    "FullName": "Pablo Johnson",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 0
+  },
+  "58.0": {
+    "ID": 58,
+    "FullName": "Alessandro Conti",
+    "Role": "MB",
+    "ATK": 1,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "59.0": {
+    "ID": 59,
+    "FullName": "Daniele Ferrari",
+    "Role": "MB",
+    "ATK": 1,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "60.0": {
+    "ID": 60,
+    "FullName": "Andrea Testa",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 0
+  },
+  "61.0": {
+    "ID": 61,
+    "FullName": "Luis Ferreira",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 2
+  },
+  "62.0": {
+    "ID": 62,
+    "FullName": "Valerio Sartori",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 3
+  },
+  "63.0": {
+    "ID": 63,
+    "FullName": "Valerio Petit",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 3,
+    "SERV": 3
+  },
+  "64.0": {
+    "ID": 64,
+    "FullName": "Carlo De Luca",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 3
+  },
+  "65.0": {
+    "ID": 65,
+    "FullName": "Alan Moretti",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 2,
+    "SERV": 3
+  },
+  "66.0": {
+    "ID": 66,
+    "FullName": "Jacopo Ferrari",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 3,
+    "SERV": 2
+  },
+  "67.0": {
+    "ID": 67,
+    "FullName": "Tommaso Piras",
+    "Role": "S",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 3,
+    "SERV": 3
+  },
+  "68.0": {
+    "ID": 68,
+    "FullName": "Kevin Novak",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 2,
+    "SERV": 2
+  },
+  "69.0": {
+    "ID": 69,
+    "FullName": "Paolo Bianchi",
+    "Role": "S",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 2,
+    "SERV": 2
+  },
+  "70.0": {
+    "ID": 70,
+    "FullName": "Marko Santos",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 2,
+    "SERV": 3
+  },
+  "71.0": {
+    "ID": 71,
+    "FullName": "Nicolas Novak",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 2
+  },
+  "72.0": {
+    "ID": 72,
+    "FullName": "Andrea Oliveira",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 3
+  },
+  "73.0": {
+    "ID": 73,
+    "FullName": "Jacopo Fiore",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 2,
+    "SERV": 2
+  },
+  "74.0": {
+    "ID": 74,
+    "FullName": "Kevin Costantini",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 3,
+    "SERV": 2
+  },
+  "75.0": {
+    "ID": 75,
+    "FullName": "Stefano Nikolic",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 2,
+    "SERV": 3
+  },
+  "76.0": {
+    "ID": 76,
+    "FullName": "Victor De Santis",
+    "Role": "S",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 2
+  },
+  "77.0": {
+    "ID": 77,
+    "FullName": "Diego Ferrari",
+    "Role": "S",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 3
+  },
+  "78.0": {
+    "ID": 78,
+    "FullName": "Stefano Rizzo",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 3,
+    "SERV": 2
+  },
+  "79.0": {
+    "ID": 79,
+    "FullName": "Amedeo Sartori",
+    "Role": "S",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 3,
+    "SERV": 2
+  },
+  "80.0": {
+    "ID": 80,
+    "FullName": "Jacopo Pereira",
+    "Role": "S",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 2,
+    "SERV": 3
+  },
+  "81.0": {
+    "ID": 81,
+    "FullName": "Mehdi Anderson",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 1,
+    "SERV": 1
+  },
+  "82.0": {
+    "ID": 82,
+    "FullName": "Carlos Colombo",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 1,
+    "SERV": 1
+  },
+  "83.0": {
+    "ID": 83,
+    "FullName": "Alessandro Romano",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 2
+  },
+  "84.0": {
+    "ID": 84,
+    "FullName": "Miguel García",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "85.0": {
+    "ID": 85,
+    "FullName": "David López",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "86.0": {
+    "ID": 86,
+    "FullName": "Milan López",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 1
+  },
+  "87.0": {
+    "ID": 87,
+    "FullName": "Noah Fontana",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 1
+  },
+  "88.0": {
+    "ID": 88,
+    "FullName": "Alex Lombardo",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 1
+  },
+  "89.0": {
+    "ID": 89,
+    "FullName": "Giorgio Marino",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 1,
+    "SERV": 1
+  },
+  "90.0": {
+    "ID": 90,
+    "FullName": "Luca Petit",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 1
+  },
+  "91.0": {
+    "ID": 91,
+    "FullName": "Kevin Fontana",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 1
+  },
+  "92.0": {
+    "ID": 92,
+    "FullName": "Youssef Miller",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "93.0": {
+    "ID": 93,
+    "FullName": "Ruben Wilson",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "94.0": {
+    "ID": 94,
+    "FullName": "Andrea Ferreira",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 1,
+    "SERV": 1
+  },
+  "95.0": {
+    "ID": 95,
+    "FullName": "Arthur Marini",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 1,
+    "SERV": 1
+  },
+  "96.0": {
+    "ID": 96,
+    "FullName": "Roman Kuznetsov",
+    "Role": "R",
+    "ATK": 1,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 2
+  },
+  "97.0": {
+    "ID": 97,
+    "FullName": "Emanuele Serra",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 1
+  },
+  "98.0": {
+    "ID": 98,
+    "FullName": "Filippo De Santis",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 1,
+    "SERV": 1
+  },
+  "99.0": {
+    "ID": 99,
+    "FullName": "Francesco Ferri",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "100.0": {
+    "ID": 100,
+    "FullName": "Leonardo García",
+    "Role": "R",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 2
+  },
+  "101.0": {
+    "ID": 101,
+    "FullName": "Filippo Marini",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 0
+  },
+  "102.0": {
+    "ID": 102,
+    "FullName": "Giorgio Ferrari",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 0
+  },
+  "103.0": {
+    "ID": 103,
+    "FullName": "Arthur Costa",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 1
+  },
+  "104.0": {
+    "ID": 104,
+    "FullName": "Andrea Fiorentini",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 0
+  },
+  "105.0": {
+    "ID": 105,
+    "FullName": "Cristian Grassi",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 1
+  },
+  "106.0": {
+    "ID": 106,
+    "FullName": "Paolo Moreira",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 0
+  },
+  "107.0": {
+    "ID": 107,
+    "FullName": "Petar De Santis",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 0,
+    "SERV": 0
+  },
+  "108.0": {
+    "ID": 108,
+    "FullName": "Bruno Rinaldi",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "109.0": {
+    "ID": 109,
+    "FullName": "Pablo Fontana",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "110.0": {
+    "ID": 110,
+    "FullName": "Kevin Johnson",
+    "Role": "L",
+    "ATK": 0,
+    "BLK": 0,
+    "DEF": 3,
+    "SET": 1,
+    "SERV": 1
+  },
+  "111.0": {
+    "ID": 111,
+    "FullName": "Luis Kovacevic",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "112.0": {
+    "ID": 112,
+    "FullName": "Salvatore Greco",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "113.0": {
+    "ID": 113,
+    "FullName": "Dmytro Ferrari",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "114.0": {
+    "ID": 114,
+    "FullName": "Alan Petrovic",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "115.0": {
+    "ID": 115,
+    "FullName": "Adrian Testa",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "116.0": {
+    "ID": 116,
+    "FullName": "Roberto Barbieri",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "117.0": {
+    "ID": 117,
+    "FullName": "Thiago Moreau",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 0,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "118.0": {
+    "ID": 118,
+    "FullName": "Milan Rizzo",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "119.0": {
+    "ID": 119,
+    "FullName": "Elia Grassi",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "120.0": {
+    "ID": 120,
+    "FullName": "Amedeo Johnson",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "121.0": {
+    "ID": 121,
+    "FullName": "Tomas Marino",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "122.0": {
+    "ID": 122,
+    "FullName": "Dmytro Santos",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "123.0": {
+    "ID": 123,
+    "FullName": "Marco Greco",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "124.0": {
+    "ID": 124,
+    "FullName": "Bruno Santos",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "125.0": {
+    "ID": 125,
+    "FullName": "Nicolas Caruso",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "126.0": {
+    "ID": 126,
+    "FullName": "Giorgio Volkov",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "127.0": {
+    "ID": 127,
+    "FullName": "Jonathan Serra",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 0,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "128.0": {
+    "ID": 128,
+    "FullName": "Emanuele Oliveira",
+    "Role": "OH",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "129.0": {
+    "ID": 129,
+    "FullName": "Nicolas Nikolic",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "130.0": {
+    "ID": 130,
+    "FullName": "Amedeo Ferrari",
+    "Role": "OH",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "131.0": {
+    "ID": 131,
+    "FullName": "Simone Rinaldi",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 3
+  },
+  "132.0": {
+    "ID": 132,
+    "FullName": "Nicolas Torres",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 3
+  },
+  "133.0": {
+    "ID": 133,
+    "FullName": "Alex Moreau",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "134.0": {
+    "ID": 134,
+    "FullName": "Michele Conti",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "135.0": {
+    "ID": 135,
+    "FullName": "Giuseppe Romano",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "136.0": {
+    "ID": 136,
+    "FullName": "Carlo Rossi",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "137.0": {
+    "ID": 137,
+    "FullName": "Davide Ferrari",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "138.0": {
+    "ID": 138,
+    "FullName": "Adrian Conti",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 3
+  },
+  "139.0": {
+    "ID": 139,
+    "FullName": "Alex Kuznetsov",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "140.0": {
+    "ID": 140,
+    "FullName": "Omar Gallo",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 2
+  },
+  "141.0": {
+    "ID": 141,
+    "FullName": "Roberto Silva",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 2
+  },
+  "142.0": {
+    "ID": 142,
+    "FullName": "Pietro Barbieri",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 2
+  },
+  "143.0": {
+    "ID": 143,
+    "FullName": "Ruben Santos",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "144.0": {
+    "ID": 144,
+    "FullName": "Carlo Volkov",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 1,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "145.0": {
+    "ID": 145,
+    "FullName": "Sergio Bernardi",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 2
+  },
+  "146.0": {
+    "ID": 146,
+    "FullName": "Tommaso Gallo",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "147.0": {
+    "ID": 147,
+    "FullName": "Luca Bianchi",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 1,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 3
+  },
+  "148.0": {
+    "ID": 148,
+    "FullName": "Dmytro Marino",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 3
+  },
+  "149.0": {
+    "ID": 149,
+    "FullName": "Paolo Novak",
+    "Role": "OPP",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 2,
+    "SET": 0,
+    "SERV": 2
+  },
+  "150.0": {
+    "ID": 150,
+    "FullName": "Matteo Grassi",
+    "Role": "OPP",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 3
+  },
+  "151.0": {
+    "ID": 151,
+    "FullName": "Adrian Wilson",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "152.0": {
+    "ID": 152,
+    "FullName": "Francesco Wilson",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "153.0": {
+    "ID": 153,
+    "FullName": "Alessandro Costa",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "154.0": {
+    "ID": 154,
+    "FullName": "Simone Novak",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 1
+  },
+  "155.0": {
+    "ID": 155,
+    "FullName": "Jacopo Vitale",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "156.0": {
+    "ID": 156,
+    "FullName": "Nicola Barbieri",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "157.0": {
+    "ID": 157,
+    "FullName": "Luca Popov",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 0
+  },
+  "158.0": {
+    "ID": 158,
+    "FullName": "Petar Johnson",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 1
+  },
+  "159.0": {
+    "ID": 159,
+    "FullName": "Valerio García",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 0
+  },
+  "160.0": {
+    "ID": 160,
+    "FullName": "Noah De Luca",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "161.0": {
+    "ID": 161,
+    "FullName": "Pablo Marino",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "162.0": {
+    "ID": 162,
+    "FullName": "Luca Rizzo",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "163.0": {
+    "ID": 163,
+    "FullName": "Youssef Fiore",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "164.0": {
+    "ID": 164,
+    "FullName": "Valerio Villa",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "165.0": {
+    "ID": 165,
+    "FullName": "Javier Pellegrini",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "166.0": {
+    "ID": 166,
+    "FullName": "Roberto Rizzo",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 0
+  },
+  "167.0": {
+    "ID": 167,
+    "FullName": "Jorge Piras",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "168.0": {
+    "ID": 168,
+    "FullName": "Tommaso Moreau",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "169.0": {
+    "ID": 169,
+    "FullName": "Giuseppe Martin",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "170.0": {
+    "ID": 170,
+    "FullName": "Milan Anderson",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  },
+  "171.0": {
+    "ID": 171,
+    "FullName": "Gabriele Nikolic",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "172.0": {
+    "ID": 172,
+    "FullName": "Filippo Moreau",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "173.0": {
+    "ID": 173,
+    "FullName": "Bruno Vitale",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 2,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 1
+  },
+  "174.0": {
+    "ID": 174,
+    "FullName": "Rafael Lombardo",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 1
+  },
+  "175.0": {
+    "ID": 175,
+    "FullName": "Matteo Costantini",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 0
+  },
+  "176.0": {
+    "ID": 176,
+    "FullName": "Bojan Stojanovic",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 1
+  },
+  "177.0": {
+    "ID": 177,
+    "FullName": "Michael Sokolov",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 3,
+    "DEF": 0,
+    "SET": 0,
+    "SERV": 1
+  },
+  "178.0": {
+    "ID": 178,
+    "FullName": "Nikita Marino",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 1
+  },
+  "179.0": {
+    "ID": 179,
+    "FullName": "Enrico Marchetti",
+    "Role": "MB",
+    "ATK": 3,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 1
+  },
+  "180.0": {
+    "ID": 180,
+    "FullName": "Bojan Benzoni",
+    "Role": "MB",
+    "ATK": 2,
+    "BLK": 3,
+    "DEF": 1,
+    "SET": 0,
+    "SERV": 0
+  }
+}
